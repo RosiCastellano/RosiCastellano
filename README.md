@@ -1,8 +1,20 @@
-<div id="header" align="center">
-    <img src="https://avatars.githubusercontent.com/u/RosiCastellano?v=4" width="40%" style="border-radius:50%" />
-</div>
+<div align="center">
 
-<h1 align="center">Rosi Castellano</h1>
+```
+    ____             _ 
+   / __ \____  _____(_)
+  / /_/ / __ \/ ___/ / 
+ / _, _/ /_/ (__  ) /  
+/_/ |_|\____/____/_/   
+
+   ______           __       ____                
+  / ____/___ ______/ /____  / / /___ _____  ____ 
+ / /   / __ `/ ___/ __/ _ \/ / / __ `/ __ \/ __ \
+/ /___/ /_/ (__  ) /_/  __/ / / /_/ / / / / /_/ /
+\____/\__,_/____/\__/\___/_/_/\__,_/_/ /_/\____/ 
+```
+
+</div>
 
 <p align="center">
     <strong>Full-stack developer | Data scientist | Security enthusiast</strong>
