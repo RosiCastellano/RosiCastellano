@@ -61,10 +61,3 @@
 
 </td></tr></table>
 
----
-
-## Stats:
-
-<div align="center">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=RosiCastellano&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Streak Stats" />
-</div>
