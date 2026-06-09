@@ -35,47 +35,22 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,rust&theme=dark" />
-    <img src="https://img.shields.io/badge/SQL-bd93f9?style=for-the-badge&logo=postgresql&logoColor=0d1117" alt="SQL">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,rust,anaconda,tensorflow,git,github,linux,bash,docker,vscode,aws,azure,gcp,postgresql,mongodb,kali&perline=11&theme=dark" />
 </p>
 
-**Data & ML**
-
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=anaconda,tensorflow&theme=dark" />
-    <img src="https://img.shields.io/badge/Pandas-bd93f9?style=for-the-badge&logo=pandas&logoColor=0d1117" alt="Pandas">
-    <img src="https://img.shields.io/badge/NumPy-bd93f9?style=for-the-badge&logo=numpy&logoColor=0d1117" alt="NumPy">
-    <img src="https://img.shields.io/badge/Matplotlib-bd93f9?style=for-the-badge" alt="Matplotlib">
-    <img src="https://img.shields.io/badge/Seaborn-bd93f9?style=for-the-badge" alt="Seaborn">
+    <img height="48" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+    &nbsp;&nbsp;
+    <img height="48" alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+    &nbsp;&nbsp;
+    <img height="48" alt="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+    &nbsp;&nbsp;
+    <img height="48" alt="PowerShell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
 </p>
 
-**Tools & Shells**
-
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,vscode&theme=dark" />
-    <img src="https://img.shields.io/badge/PowerShell-bd93f9?style=for-the-badge&logo=powershell&logoColor=0d1117" alt="PowerShell">
-</p>
-
-**Cloud**
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
-</p>
-
-**Databases**
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark" />
-</p>
-
-**Security**
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=kali&theme=dark" />
-    <img src="https://img.shields.io/badge/Buffer_Overflow-bd93f9?style=for-the-badge&logo=hackthebox&logoColor=0d1117" alt="Buffer Overflow">
+    <sub>Also working with <b>SQL</b> · <b>Seaborn</b> · <b>Buffer Overflow exploitation</b></sub>
 </p>
 
 ---
