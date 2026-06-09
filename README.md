@@ -35,23 +35,61 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,rust,anaconda,tensorflow,git,github,linux,bash,docker,vscode,aws,azure,gcp,postgresql,mongodb,kali&perline=11&theme=dark" />
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<p align="center">
-    <img height="48" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-    &nbsp;&nbsp;
-    <img height="48" alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    &nbsp;&nbsp;
-    <img height="48" alt="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
-    &nbsp;&nbsp;
-    <img height="48" alt="PowerShell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
-</p>
+**Languages**
 
-<p align="center">
-    <sub>Also working with <b>SQL</b> · <b>Seaborn</b> · <b>Buffer Overflow exploitation</b></sub>
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,rust&perline=4&theme=dark" /><br>
+<sub>+ SQL</sub>
+
+</td>
+<td align="center" width="33%">
+
+**Data &amp; ML**
+
+<img src="https://skillicons.dev/icons?i=anaconda,tensorflow&theme=dark" /><br>
+<img height="44" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img height="44" alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img height="44" alt="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" /><br>
+<sub>+ Seaborn</sub>
+
+</td>
+<td align="center" width="33%">
+
+**Tools &amp; Shells**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,vscode&perline=3&theme=dark" /><br>
+<img height="44" alt="PowerShell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+**Security**
+
+<img src="https://skillicons.dev/icons?i=kali&theme=dark" /><br>
+<sub>+ Buffer Overflow exploitation</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
