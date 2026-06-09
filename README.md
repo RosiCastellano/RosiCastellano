@@ -71,9 +71,6 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosiCastellano&layout=compact&langs_count=8&hide_border=true&title_color=bd93f9&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</p>
 
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=RosiCastellano&hide_border=true&background=0d1117&stroke=bd93f9&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
