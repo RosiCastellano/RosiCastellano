@@ -35,7 +35,7 @@
 
 ## 🛠️ Tech Stack
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="33%">
 
@@ -85,9 +85,36 @@
 **Security**
 
 <img src="https://skillicons.dev/icons?i=kali&theme=dark" /><br>
-<sub>+ Buffer Overflow exploitation</sub>
+<sub>+ full toolkit below</sub>
 
 </td>
+</tr>
+</table>
+
+---
+
+## 🔒 Security
+
+<table align="center">
+<tr>
+<td valign="top"><b>Offensive / Pentesting</b></td>
+<td>Penetration Testing · Burp Suite · Metasploit · Nmap · SQL Injection · Cross-Site Scripting (XSS) · Privilege Escalation · OWASP Top 10 · Buffer Overflow Exploitation</td>
+</tr>
+<tr>
+<td valign="top"><b>Network / Analysis</b></td>
+<td>Wireshark · Network Security · tcpdump</td>
+</tr>
+<tr>
+<td valign="top"><b>Reverse Engineering / Crypto</b></td>
+<td>Reverse Engineering · Ghidra · Cryptography · Malware Analysis</td>
+</tr>
+<tr>
+<td valign="top"><b>Defensive / Blue Team</b></td>
+<td>SIEM / Splunk · Digital Forensics · Incident Response</td>
+</tr>
+<tr>
+<td valign="top"><b>Other</b></td>
+<td>Capture the Flag (CTF) · Hashcat (password cracking) · Linux Hardening</td>
 </tr>
 </table>
 
