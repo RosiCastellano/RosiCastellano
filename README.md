@@ -23,7 +23,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - I'm a full-stack developer, data scientist, and security enthusiast
 - I work across the entire stack, from frontend to backend to infrastructure
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table align="center">
 <tr>
@@ -120,7 +120,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=RosiCastellano&hide_border=true&background=0d1117&stroke=bd93f9&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
@@ -132,7 +132,7 @@
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <p align="center">
     <a href="https://github.com/RosiCastellano">
