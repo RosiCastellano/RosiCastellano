@@ -120,6 +120,29 @@
 
 ---
 
+## 📈 Live Stats
+
+<p align="center">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=RosiCastellano&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered&title_color=bd93f9&icon_color=e0aaff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosiCastellano&layout=donut&langs_count=10&hide_border=true&title_color=bd93f9&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RosiCastellano&theme=dracula" alt="Profile Summary" />
+</p>
+
+<p align="center">
+    <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RosiCastellano&theme=dracula" alt="Repos Per Language" />
+    <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RosiCastellano&theme=dracula" alt="Most Committed Language" />
+</p>
+
+<p align="center">
+    <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RosiCastellano&theme=dracula" alt="Stats" />
+    <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RosiCastellano&theme=dracula&utcOffset=-4" alt="Productive Time" />
+</p>
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
